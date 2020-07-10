@@ -1,12 +1,2 @@
 ttttttttttttttttttttttttttttttt
-这是需要合并的二段内容
-yyyyy
-t
-t
-t
-t
-t
-t
-t
-这是需要从test分支合并的master分支的
-
+versoin 1.0
